@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7cbbc90696bb74fe7c9edca03b146f23",
+    "revision": "75e798e3fbb0fe2282838e5983ab34c8",
     "url": "/pixelmapper/index.html"
   },
   {
-    "revision": "a64b21f3d6a38b3f9c49",
-    "url": "/pixelmapper/static/css/main.2dee9de5.chunk.css"
+    "revision": "d766596673739d33157d",
+    "url": "/pixelmapper/static/css/main.1912fdbc.chunk.css"
   },
   {
     "revision": "dea95f7b7a8c5dc12507d5fe7708e1a0",
     "url": "/pixelmapper/static/js/0.46cacfc8.chunk.worker.js"
   },
   {
-    "revision": "e2c99aac58981268302e",
-    "url": "/pixelmapper/static/js/2.a261a938.chunk.js"
+    "revision": "d1c9f97aa5702de97b00",
+    "url": "/pixelmapper/static/js/2.12372f4c.chunk.js"
   },
   {
     "revision": "9b318b6fb13190fe82c0677e9264b3c7",
-    "url": "/pixelmapper/static/js/2.a261a938.chunk.js.LICENSE.txt"
+    "url": "/pixelmapper/static/js/2.12372f4c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a64b21f3d6a38b3f9c49",
-    "url": "/pixelmapper/static/js/main.5dd5f2da.chunk.js"
+    "revision": "d766596673739d33157d",
+    "url": "/pixelmapper/static/js/main.0afcb014.chunk.js"
   },
   {
     "revision": "aa7b73fad63e6934def1",
