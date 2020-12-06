@@ -1,24 +1,23 @@
 {
   "files": {
-    "main.css": "/pixelmapper/static/css/main.c3d95cec.chunk.css",
-    "main.js": "/pixelmapper/static/js/main.dd94b222.chunk.js",
+    "main.css": "/pixelmapper/static/css/main.2dee9de5.chunk.css",
+    "main.js": "/pixelmapper/static/js/main.5dd5f2da.chunk.js",
     "runtime-main.js": "/pixelmapper/static/js/runtime-main.7f018c13.js",
-    "static/js/2.bf544bb6.chunk.js": "/pixelmapper/static/js/2.bf544bb6.chunk.js",
+    "static/js/2.a261a938.chunk.js": "/pixelmapper/static/js/2.a261a938.chunk.js",
     "index.html": "/pixelmapper/index.html",
-    "precache-manifest.0297ac0eb4bf78040d28ee16e035d275.js": "/pixelmapper/precache-manifest.0297ac0eb4bf78040d28ee16e035d275.js",
+    "precache-manifest.5f4db94f1a059af56ee98d18e3a662a5.js": "/pixelmapper/precache-manifest.5f4db94f1a059af56ee98d18e3a662a5.js",
     "service-worker.js": "/pixelmapper/service-worker.js",
-    "static/js/0.d1c5b519.chunk.worker.js": "/pixelmapper/static/js/0.d1c5b519.chunk.worker.js",
-    "static/js/0.d1c5b519.chunk.worker.js.LICENSE.txt": "/pixelmapper/static/js/0.d1c5b519.chunk.worker.js.LICENSE.txt",
-    "static/js/2.bf544bb6.chunk.js.LICENSE.txt": "/pixelmapper/static/js/2.bf544bb6.chunk.js.LICENSE.txt",
-    "static/media/code0.png": "/pixelmapper/static/media/code0.41a8ee21.png",
-    "static/media/code1.png": "/pixelmapper/static/media/code1.34bf7ea2.png",
-    "static/media/result.png": "/pixelmapper/static/media/result.5a3b9220.png",
-    "static/media/white.png": "/pixelmapper/static/media/white.964842f0.png"
+    "static/js/0.46cacfc8.chunk.worker.js": "/pixelmapper/static/js/0.46cacfc8.chunk.worker.js",
+    "static/js/2.a261a938.chunk.js.LICENSE.txt": "/pixelmapper/static/js/2.a261a938.chunk.js.LICENSE.txt",
+    "static/media/code0.4d6f6b72.png": "/pixelmapper/static/media/code0.4d6f6b72.png",
+    "static/media/code1.f6e12be6.png": "/pixelmapper/static/media/code1.f6e12be6.png",
+    "static/media/result.c2ba3407.png": "/pixelmapper/static/media/result.c2ba3407.png",
+    "static/media/white.f1f55512.png": "/pixelmapper/static/media/white.f1f55512.png"
   },
   "entrypoints": [
     "static/js/runtime-main.7f018c13.js",
-    "static/js/2.bf544bb6.chunk.js",
-    "static/css/main.c3d95cec.chunk.css",
-    "static/js/main.dd94b222.chunk.js"
+    "static/js/2.a261a938.chunk.js",
+    "static/css/main.2dee9de5.chunk.css",
+    "static/js/main.5dd5f2da.chunk.js"
   ]
 }
